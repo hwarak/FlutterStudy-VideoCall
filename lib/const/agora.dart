@@ -1,0 +1,3 @@
+const APP_ID = 'APP_ID';
+const CHANNEL_NAME = 'CHANNEL_NAME';
+const TEMP_TOKEN = 'TEMP_TOKEN';
